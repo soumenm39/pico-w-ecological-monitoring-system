@@ -180,6 +180,7 @@ Research Interests:
 
 <img width="1200" height="1600" alt="WhatsApp Image 2026-06-13 at 14 43 29" src="https://github.com/user-attachments/assets/f2bce60d-ca6c-4e22-8d3f-a5763023d31b" />
 
+<img width="1824" height="1538" alt="image" src="https://github.com/user-attachments/assets/d97af8e3-eb47-4db8-8096-0c5ca635907c" />
 
 ---
 
