@@ -178,6 +178,9 @@ Research Interests:
 * Internet of Things (IoT)
 * Machine Learning
 
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-13 at 14 43 29" src="https://github.com/user-attachments/assets/f2bce60d-ca6c-4e22-8d3f-a5763023d31b" />
+
+
 ---
 
 ## License
