@@ -385,16 +385,16 @@ under the observed operating conditions.
 The battery voltage measurement divider uses:
 
 ```text
-10 kΩ + 10 kΩ
+100 kΩ + 100 kΩ
 ```
 
 which draws approximately:
 
 ```text
-~0.2 mA
+~0.02 mA
 ```
 
-from a 4.1 V battery.
+from a 3.7 V Li-ion battery.
 
 Therefore, the voltage-divider power consumption is very small compared with the overall system consumption.
 
