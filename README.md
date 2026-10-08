@@ -1,4 +1,4 @@
-# 🌿 Smart Ecological Observation Station
+# 🌿 Smart Ecological Observation Device
 
 A portable, multi-parameter environmental monitoring system developed for **field-based ecological and environmental observations**.
 
