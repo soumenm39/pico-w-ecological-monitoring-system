@@ -141,11 +141,11 @@ Current hardware configuration:
 ```text
 Battery +
     │
-   10 kΩ
+   100 kΩ
     │
     ├──────── GP27 / ADC1
     │
-   10 kΩ
+   100 kΩ
     │
    GND
 ```
